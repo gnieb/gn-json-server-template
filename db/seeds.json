@@ -1,0 +1,22 @@
+{
+  "toDos": [
+    {
+      "id": 1,
+      "name": "Get gas",
+      "due": "",
+      "category": "",
+      "note to self": "Go to the gas station by work building... it's cheaper",
+      "done": false,
+      "priority": true
+    },
+    {
+      "id": 2,
+      "name": "Learn Python",
+      "due": "",
+      "category": "",
+      "note to self": "complete labs suggested in Slack channel",
+      "done": false,
+      "priority": true
+    }
+  ]
+}

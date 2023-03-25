@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Get gas",
+      "due": "",
+      "category": "",
+      "note to self": "Go to the gas station by work building... it's cheaper",
+      "done": false,
+      "priority": true
+    },
+    {
+      "id": 2,
+      "name": "Learn Python",
+      "due": "",
+      "category": "",
+      "note to self": "complete labs suggested in Slack channel",
+      "done": false,
+      "priority": true
+    },
+    {
+      "name": "Vacuum",
+      "due": "2023-03-11",
+      "category": "Around the House",
+      "note to self": "Vacuum upstairs only, and not in Sam's room",
+      "done": false,
+      "priority": false,
+      "id": 3
+    },
+    {
+      "name": "Vacuum",
+      "due": "2023-03-11",
+      "category": "Around the House",
+      "note to self": "Vacuum upstairs only, and not in Sam's room",
+      "done": false,
+      "priority": false,
+      "id": 4
+    }
+  ],
+  
+  "events": [
+    {
+      "title": "Kickboxing",
+      "start": "new Date(2023, 3, 25, 9, 0, 0)",
+      "end": "new Date(2023, 3, 25, 10, 0, 0)",
+      "allDay?": false,
+      "resource?": ""
+    }
+  ]
+}
